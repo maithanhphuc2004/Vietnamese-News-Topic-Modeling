@@ -1,8 +1,16 @@
 # 📰 Vietnamese-News-Topic-Modeling
-![Stars](https://img.shields.io/github/stars/maithanhphuc2004/Vietnamese-News-TopicModeling?style=flat-square)
-![Forks](https://img.shields.io/github/forks/maithanhphuc2004/Vietnamese-News-TopicModeling?style=flat-square)
-![Issues](https://img.shields.io/github/issues/maithanhphuc2004/Vietnamese-News-TopicModeling?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/maithanhphuc2004/Vietnamese-News-TopicModeling?color=green&style=flat-square)
+![LDA](https://img.shields.io/badge/Model-LDA-blue?style=flat-square)
+![NMF](https://img.shields.io/badge/Model-NMF-green?style=flat-square)
+![LSA](https://img.shields.io/badge/Model-LSA-orange?style=flat-square)
+![BERTopic](https://img.shields.io/badge/Model-BERTopic-purple?style=flat-square)
+
+![KMeans](https://img.shields.io/badge/Clustering-KMeans-red?style=flat-square)
+![HDBSCAN](https://img.shields.io/badge/Clustering-HDBSCAN-yellow?style=flat-square)
+
+![TFIDF](https://img.shields.io/badge/Embedding-TF--IDF-lightblue?style=flat-square)
+![BoW](https://img.shields.io/badge/Embedding-BoW-grey?style=flat-square)
+![PhoBERT](https://img.shields.io/badge/Embedding-PhoBERT-cc33ff?style=flat-square)
+![UMAP](https://img.shields.io/badge/Dimensionality%20Reduction-UMAP-brown?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![TF-IDF](https://img.shields.io/badge/TFIDF-Feature%20Engineering-orange?style=flat-square)
@@ -168,4 +176,10 @@ Includes:
 - **GVHD: Lê Nhật Tùng**
 
 ---
+## 📚 Citation *(Trích dẫn)*
 
+If you use this project in research, please cite:
+
+Mai Thanh Phúc, Hoàng Thị Yến Nhi, Trần Trọng Thành, Lê Nhật Tùng.
+“Topic Modeling Approaches for Vietnamese Online News Analysis.”
+HUTECH University, 2025.
